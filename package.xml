@@ -30,6 +30,9 @@
  <contents>
   <dir baseinstalldir="/" name="/">
    <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="elibom/elibom.php" role="php" />
+   <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="elibom/client.php" role="php" />
+   <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="elibom/message.php" role="php" />
+  <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="elibom/resource.php" role="php" />
   </dir>
  </contents>
  <dependencies>
