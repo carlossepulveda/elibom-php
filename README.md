@@ -3,6 +3,9 @@ elibom-php
 
 A simple Elibom REST client.
 
+Requisites:
+
+cURL (apt-get install php5-curl)
 
 To install:
 
