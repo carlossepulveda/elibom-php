@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>carlossepulveda.github.io</name>
+  <summary>Test PEAR channel</summary>
+  <alias>Test</alias>
+  <url>http://carlossepulveda.github.io/elibom-php</url>
+</server>
